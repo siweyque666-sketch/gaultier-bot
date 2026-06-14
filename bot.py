@@ -2,7 +2,7 @@ import discord
 from discord.ext import commands
 from discord import app_commands
 import os
-TOKEN "MTUxNTgwNjk3NzkyMDMzNTg3Mg.GIvq0c.goc2DWJjdm_dH1tbsGsMvr8dS7mFbuugelSTNY"
+TOKEN = "MTUxNTgwNjk3NzkyMDMzNTg3Mg.GIvq0c.goc2DWJjdm_dH1tbsGsMvr8dS7mFbuugelSTNY"
 WEBHOOK_NAME = "Gaultier"
 WEBHOOK_AVATAR = "https://cdn.discordapp.com/attachments/1513659487343476928/1515814998969155705/EA1CA7CE-2E38-42AC-A2D8-E41F309D09AD.png?ex=6a30603a&is=6a2f0eba&hm=6a1d916d14bb012266725a13857145a3e27d59ad3dc3f64ca1d601dbaf2e4558"
 
