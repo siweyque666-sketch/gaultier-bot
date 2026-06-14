@@ -116,5 +116,4 @@ async def on_ready():
 async def embed(interaction: discord.Interaction):
     await interaction.response.send_modal(EmbedModal())
 
-print("TOKEN =", TOKEN)
 bot.run(TOKEN)
